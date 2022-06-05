@@ -20,11 +20,13 @@ As for my soft-skills, I'm very comunicative, enthusiastic, I really like learni
 * Git and GitHub
 
 ## Code Example
-"Subarray sum equals k" from leetcode.com: Given an array of integers nums and an integer **k**, *return the total number of subarrays whose sum equals to* **k**.
+"**Subarray sum equals k**" from **leetcode.com**: 
+Given an array of integers nums and an integer **k**, *return the total number of subarrays whose sum equals to* **k**.
 
 A subarray is a contiguous **non-empty** sequence of elements within an array.
 
-```from collections import defaultdict
+```
+from collections import defaultdict
 
 arr0 = list(input().split(' '))
 arr = [int(x) for x in arr0]
@@ -40,4 +42,5 @@ for i in range(len(arr)):
         counter += dict[subsum - k]
     dict[subsum] += 1
     
-print(counter)```
+print(counter)
+```
