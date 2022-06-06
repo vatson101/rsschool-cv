@@ -44,3 +44,16 @@ for i in range(len(arr)):
     
 print(counter)
 ```
+
+## Experience
+**Educational Project:**
+* A basic Neural Network (WiP): [GitHub|https://github.com/vatson101/NN-tests]
+
+## Education
+* University: **Saint Petersburg Electrotechnical University (LETI)**
+
+## Languages
+* **English:** C1 — Advanced (**77/100** according to [English First|https://www.efset.org/cert/QXHeCK])
+* **Russian:** Native
+* **Polish:** A2 — Basic
+* **Japanese:** N5 — Basic 
